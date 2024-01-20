@@ -1,0 +1,26 @@
+# Unlocker CODM - Horizon X1 Pro Spoof
+ro.product.model=Horizon X1 Pro
+ro.product.name=Horizon X1 Pro
+ro.product.vendor.device=Horizon X1 Pro
+ro.product.odm.model=HZN-X1P-ODM
+ro.product.system.model=HZN-X1P-SYS
+ro.product.system_ext.model=HZN-X1P-SYSEXT
+ro.product.vendor.model=HZN-X1P-VENDOR
+ro.product.marketname=Horizon X1 Pro
+ro.product.device=StealthX1
+ro.build.description=ShadowX1 TQ2A.230305.008.C1 9619669 release-keys
+ro.build.host=geniusbrand-release-rbe-64-2004-0069
+ro.system.build.version.release_or_codename=13
+ro.build.fingerprint=google/ShadowX1/ShadowX1:13/TQ2A.230305.008.C1/9619669:user/release-keys
+
+# Custom Manufacturer Name
+ro.product.manufacturer=GeniusCorp
+ro.product.vendor.manufacturer=ro.product.manufacturer
+ro.product.brand=GeniusBrand
+
+# Description: Spoofing Settings - Horizon X1 Pro
+ro.build.product=StealthX1  # Configured build product as StealthX1 for spoofing
+ro.product.system.device=StealthX1  # Configured system device as StealthX1 for spoofing
+
+# Custom Kernel Name
+ro.kernel.name=StealthX1-Kernel  # Customized kernel name set as StealthX1-Kernel
