@@ -10,6 +10,8 @@ ro.product.marketname=Horizon X1 Pro
 ro.product.device=HorizonX1Pro
 ro.build.description=ShadowX1 TQ2A.230305.008.C1 9619669 release-keys
 ro.build.host=geniusbrand-release-rbe-64-2004-0069
+ro.hardware=HorizonX1ProHardware
+ro.bootloader=HorizonX1ProBootloader
 ro.system.build.version.release_or_codename=13
 ro.build.fingerprint=google/ShadowX1/ShadowX1:13/TQ2A.230305.008.C1/9619669:user/release-keys
 
